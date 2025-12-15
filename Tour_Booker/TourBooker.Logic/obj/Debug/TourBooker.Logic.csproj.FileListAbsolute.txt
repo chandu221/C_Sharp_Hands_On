@@ -1,0 +1,12 @@
+C:\Users\partha.bora\Downloads\csharp-collections-advanced\06\demos\After\TourBooker\TourBooker.Logic\bin\Debug\TourBooker.Logic.dll
+C:\Users\partha.bora\Downloads\csharp-collections-advanced\06\demos\After\TourBooker\TourBooker.Logic\bin\Debug\TourBooker.Logic.pdb
+C:\Users\partha.bora\Downloads\csharp-collections-advanced\06\demos\After\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.csproj.AssemblyReference.cache
+C:\Users\partha.bora\Downloads\csharp-collections-advanced\06\demos\After\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.csproj.CoreCompileInputs.cache
+C:\Users\partha.bora\Downloads\csharp-collections-advanced\06\demos\After\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.dll
+C:\Users\partha.bora\Downloads\csharp-collections-advanced\06\demos\After\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.pdb
+C:\Users\nchan\Documents\TourBooker_Implement_Stack\After\TourBooker\TourBooker.Logic\bin\Debug\TourBooker.Logic.dll
+C:\Users\nchan\Documents\TourBooker_Implement_Stack\After\TourBooker\TourBooker.Logic\bin\Debug\TourBooker.Logic.pdb
+C:\Users\nchan\Documents\TourBooker_Implement_Stack\After\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.csproj.AssemblyReference.cache
+C:\Users\nchan\Documents\TourBooker_Implement_Stack\After\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.csproj.CoreCompileInputs.cache
+C:\Users\nchan\Documents\TourBooker_Implement_Stack\After\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.dll
+C:\Users\nchan\Documents\TourBooker_Implement_Stack\After\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.pdb
