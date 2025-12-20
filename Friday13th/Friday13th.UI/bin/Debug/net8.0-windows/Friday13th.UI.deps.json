@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Friday13th.UI/1.0.0": {
+        "dependencies": {
+          "Friday13th.Logic": "1.0.0"
+        },
+        "runtime": {
+          "Friday13th.UI.dll": {}
+        }
+      },
+      "Friday13th.Logic/1.0.0": {
+        "runtime": {
+          "Friday13th.Logic.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Friday13th.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Friday13th.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

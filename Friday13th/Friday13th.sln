@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Friday13th.Logic", "Friday13th.Logic\Friday13th.Logic.csproj", "{07DA1D93-0AB0-4414-B207-807787C1318A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Friday13th.UI", "Friday13th.UI\Friday13th.UI.csproj", "{029439A4-EDB3-4BD6-8412-360A36415AA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07DA1D93-0AB0-4414-B207-807787C1318A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DA1D93-0AB0-4414-B207-807787C1318A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DA1D93-0AB0-4414-B207-807787C1318A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DA1D93-0AB0-4414-B207-807787C1318A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029439A4-EDB3-4BD6-8412-360A36415AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029439A4-EDB3-4BD6-8412-360A36415AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029439A4-EDB3-4BD6-8412-360A36415AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029439A4-EDB3-4BD6-8412-360A36415AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DFFAD51-32A8-4AC4-93B7-3B52F9768E86}
+	EndGlobalSection
+EndGlobal

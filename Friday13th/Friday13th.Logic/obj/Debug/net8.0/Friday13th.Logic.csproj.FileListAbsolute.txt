@@ -1,0 +1,11 @@
+C:\Users\nchan\source\repos\Friday13th\Friday13th.Logic\bin\Debug\net8.0\Friday13th.Logic.deps.json
+C:\Users\nchan\source\repos\Friday13th\Friday13th.Logic\bin\Debug\net8.0\Friday13th.Logic.dll
+C:\Users\nchan\source\repos\Friday13th\Friday13th.Logic\bin\Debug\net8.0\Friday13th.Logic.pdb
+C:\Users\nchan\source\repos\Friday13th\Friday13th.Logic\obj\Debug\net8.0\Friday13th.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nchan\source\repos\Friday13th\Friday13th.Logic\obj\Debug\net8.0\Friday13th.Logic.AssemblyInfoInputs.cache
+C:\Users\nchan\source\repos\Friday13th\Friday13th.Logic\obj\Debug\net8.0\Friday13th.Logic.AssemblyInfo.cs
+C:\Users\nchan\source\repos\Friday13th\Friday13th.Logic\obj\Debug\net8.0\Friday13th.Logic.csproj.CoreCompileInputs.cache
+C:\Users\nchan\source\repos\Friday13th\Friday13th.Logic\obj\Debug\net8.0\Friday13th.Logic.dll
+C:\Users\nchan\source\repos\Friday13th\Friday13th.Logic\obj\Debug\net8.0\refint\Friday13th.Logic.dll
+C:\Users\nchan\source\repos\Friday13th\Friday13th.Logic\obj\Debug\net8.0\Friday13th.Logic.pdb
+C:\Users\nchan\source\repos\Friday13th\Friday13th.Logic\obj\Debug\net8.0\ref\Friday13th.Logic.dll
